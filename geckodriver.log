@@ -48,3 +48,19 @@ JavaScript error: https://exmarketplace.com/bidder/adsbooster.js, line 1: Refere
 1538315767224	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
 JavaScript error: https://exmarketplace.com/bidder/lacartedescolocs/lacartedescolocs.1.dfp.js, line 80: ReferenceError: slotManager is not defined
 1538315772809	Marionette	INFO	Stopped listening on port 36349
+1538315835115	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.eYYStbj4B39j"
+*** You are running in headless mode.
+1538315838689	Marionette	INFO	Listening on port 45921
+1538315838740	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538315838837	Marionette	DEBUG	[2147483649] Frame script loaded
+1538315838838	Marionette	DEBUG	[2147483649] Frame script registered
+1538315838879	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538315839568	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538315844351	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lacartedescolocs.fr/users/sign_in
+1538315846241	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538315846506	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lacartedescolocs.fr/users/sign_in
+1538315846901	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538315849505	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315850568	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315850570	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315850867	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
