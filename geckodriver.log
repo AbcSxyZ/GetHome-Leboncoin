@@ -1,0 +1,50 @@
+1538315662627	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.9AaUzInz4vQ6"
+*** You are running in headless mode.
+1538315666201	Marionette	INFO	Listening on port 36387
+1538315666254	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538315666332	Marionette	DEBUG	[2147483649] Frame script loaded
+1538315666333	Marionette	DEBUG	[2147483649] Frame script registered
+1538315666391	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538315666965	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538315672808	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lacartedescolocs.fr/users/sign_in
+1538315674764	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lacartedescolocs.fr/users/sign_in
+1538315675170	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.lacartedescolocs.fr/users/sign_in
+1538315675175	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.lacartedescolocs.fr/users/sign_in
+1538315675477	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.lacartedescolocs.fr/users/sign_in
+1538315675480	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.lacartedescolocs.fr/users/sign_in
+1538315675790	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315675796	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483655
+1538315675797	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483653
+1538315675797	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483657
+1538315678303	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315679331	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315679552	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315679555	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315679900	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315679909	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483674
+1538315679910	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483665
+1538315679910	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483678
+1538315679910	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483669
+1538315679911	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483664
+1538315679912	Marionette	DEBUG	[2147483649] Received observer notification outer-window-destroyed for 2147483680
+1538315682331	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+JavaScript error: https://exmarketplace.com/bidder/adsbooster.js, line 1: ReferenceError: pbjs is not defined
+1538315685158	Marionette	INFO	Stopped listening on port 36387
+1538315747255	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.f4CtiSp70Qy6"
+*** You are running in headless mode.
+1538315750846	Marionette	INFO	Listening on port 36349
+1538315750883	Marionette	WARN	TLS certificate errors will be ignored for this session
+1538315750976	Marionette	DEBUG	[2147483649] Frame script loaded
+1538315750988	Marionette	DEBUG	[2147483649] Frame script registered
+1538315751026	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for about:blank
+1538315751650	Marionette	DEBUG	[2147483649] Received DOM event pagehide for about:blank
+1538315758720	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lacartedescolocs.fr/users/sign_in
+1538315759464	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lacartedescolocs.fr/users/sign_in
+1538315759876	Marionette	DEBUG	[2147483649] Canceled page load listener because no navigation has been detected
+1538315762720	Marionette	DEBUG	[2147483649] Received DOM event beforeunload for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315763607	Marionette	DEBUG	[2147483649] Received DOM event pagehide for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315763609	Marionette	DEBUG	[2147483649] Received DOM event unload for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315764084	Marionette	DEBUG	[2147483649] Received DOM event DOMContentLoaded for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+1538315767224	Marionette	DEBUG	[2147483649] Received DOM event pageshow for https://www.lacartedescolocs.fr/colocations/auvergne-rhone-alpes/lyon
+JavaScript error: https://exmarketplace.com/bidder/lacartedescolocs/lacartedescolocs.1.dfp.js, line 80: ReferenceError: slotManager is not defined
+1538315772809	Marionette	INFO	Stopped listening on port 36349
